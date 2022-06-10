@@ -1,0 +1,11 @@
+name,event_datetime,place,capacity,remain_capacity,ticket_cost,discount_percent,event_id
+concert,2021/12/25,milad towel,400,350,160.0,0.2,1
+Health Conference,2022/1/22,tehran,5000,5000,90.0,0.1,2
+festival,2022/5/22,tabriz,7000,330,142.5,0.05,3
+jashn hafez,2022/12/13,tehran,10000,9970,160.0,0.2,4
+jashn ashpazee,2022/2/3,esfehan,500,490,25.5,0.15,5
+concert rezabahram,2021/12/25,milad towel,400,350,160.0,0.0,6
+sehr khani,2022/5/5,mashhad,300,300,34.8,0.13,7
+concert behnam bani,2021/12/25 21:00,milad towel,400,298,160.0,0.0,8
+game,2022/2/2 12:00,bagh ketab tehran,200,195,18.0,0.1,9
+zoo,2022/2/2 22:00,tehran,200,200,18.0,0.1,10
